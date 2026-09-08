@@ -119,7 +119,7 @@
         container.className = "unity-mobile";
     }
 
-    loadingCover.style.background = "url('https://cdn.jsdelivr.net/gh/nihathatpsin/seymaynem@main/background.png') center / cover";
+    loadingCover.style.background = "url('https://raw.githubusercontent.com/MineTheTPEs/filesstorefortpegames/refs/heads/main/drive-online/TPEBACKGROUND-2145x1276.png') center / cover";
     loadingCover.style.display = "";
 
     document.addEventListener('contextmenu', event => event.preventDefault());
