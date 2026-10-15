@@ -54,7 +54,7 @@
 <script>
     // Mevcut değişkenler ve ayarlar
     const hideFullScreenButton = "";
-    const buildUrl = "https://cdn.jsdelivr.net/gh/nihathatpsin/seymaynem@main/Build";
+    const buildUrl = "https://cdn.jsdelivr.net/gh/MineTheTPEs/filesstorefortpegames@main/drive-online/Build";
 
     // .data dosyalarını birleştirme
     const dataParts = [
